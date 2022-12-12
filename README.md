@@ -21,7 +21,7 @@ All the parts are design to fit in my 260x220mm homemade CNC but if you have acc
 
 First things first, you need to find the necessary supplies:
 
-- For the miror I had some 1x1m .5mm aluminium sheets laying around (from a printing house). There is two mains other options, you can buy aluminium sheets in a hardware store it can cost between 10 to 50€ depending of the thikness (the thinest is good as soon as it isn't aluminium foil). The last option is to use very thin plywood and shape it with water or alcohol. The plywood need to be cover with a reflective surface, an emergency blanket is a good option but the best option is to use miror foil.
+- For the miror I had some 1x1m .5mm aluminium sheets laying around (from a printing house). There is two mains other options, you can buy aluminium sheets in a hardware store it can cost between 10 to 50€ depending of the thikness (the thinest is good as long as it isn't aluminium foil). The last option is to use very thin plywood and shape it with water or alcohol. The plywood need to be cover with a reflective surface, an emergency blanket is a good option but the best option is to use miror foil.
 
 - L shape aluminuim extrusion
 - Wood
