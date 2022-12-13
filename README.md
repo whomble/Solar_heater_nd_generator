@@ -23,19 +23,23 @@ First things first, you need to find the necessary supplies:
 
 - For the miror I had some 1x1m .5mm aluminium sheets laying around (from a printing house). There is two mains other options, you can buy aluminium sheets in a hardware store it can cost between 10 to 50€ depending of the thikness (the thinest is good as long as it isn't aluminium foil). The last option is to use very thin plywood and shape it with water or alcohol. The plywood need to be cover with a reflective surface, an emergency blanket is a good option but the best option is to use miror foil.
 
-- L shape aluminuim extrusion
-- Wood
-- Screws 
-- M4 Bolts and nuts
-- M4 Threaded rod
-- Nails
-- Steel wire
-- Bearings
-- Arduino nano
-- Photoresistors
-- GT2 belt
-- GT2 pulley
-- 1Kg/cm or more servomotor
+In function of what you have in hand, the next step is to define the miror size!
+I've choose to make a 0.5m² miror so 0.75m long 0.65m so the aluminium sheet is about 0.75m by 0.80m.
+
+| Part | Quantity | Cost |
+|- | - | - |
+| L shape aluminuim extrusion | 3-4 | 25€ |
+| Wood | 1 | 15€ |
+| Screws | 50 | 10€ |
+| M4 Bolts and nuts | 10 | 5€ |
+| Nails | 100 | 3€ |
+| Steel wire | 1 roll | 5€ |
+| Bearings 606zz | 8 | 4€ |
+| Arduino nano | 1 | 5€ |
+| Photoresistors | 10 | 1€ |
+| GT2 belt | 1 | 3€ |
+| GT2 pulley | 1 | 1€ |
+| 1Kg/cm or more servomotor | 1 | 3€ |
 
 
 <img src="img/capt 3 solid.JPG"  width="450">
