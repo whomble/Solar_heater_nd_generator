@@ -63,9 +63,6 @@ The middle ring is also use for the roation of the miror.
 
 
 
-
-
-
 # Turbine
 ## Conception
 ## First prototype
