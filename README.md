@@ -11,7 +11,7 @@ Since a small generator like that isn't very efficient, the parabolic mirror wit
 
 <img src="img/capt solid.JPG"  width="600">
 
-## Conception
+## Parts
 
 I wanted this part to be as affordable as possible so I've used a lot of scrap wood, if you want to built something like that, I recommand you to use apropriate wood with varnish to resists the environnement conditions.
 
@@ -41,10 +41,18 @@ I've choose to make a 0.5m² miror so 0.75m long 0.65m so the aluminium sheet is
 | GT2 pulley | 1 | 1€ |
 | 1Kg/cm or more servomotor | 1 | 3€ |
 
+## Conception
+
+Drawing a parabol is quite easy on most cad softwares, on solidworks just use the parabol tool and then you need to lock horizontally the two up point and the midle vertically. There is two distances to define, the width 60 on the image bellow, and the distance between focal point and the middle of the parabol, a short distance will be easier for the the solar tracking part but you need to have enougth clearance between the pipe and the miror.
 
 <img src="img/capt 3 solid.JPG"  width="450">
 
+The support is quite straigth forward, the only specific part is the ring in the middle which will be used to support the copper pipe with steel wire.
+I have split the parabolic ring in 3 part to match with the size of my CNC but if you have acces to a bigger one this step is not requiered.
+
 <img src="img/capt2 solid.JPG"  width="450">
+
+The middle ring is also use for the roation of the miror.
 
 ## Fabrication
 ## Solar tracking
